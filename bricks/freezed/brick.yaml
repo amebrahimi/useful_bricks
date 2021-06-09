@@ -1,0 +1,4 @@
+name: freezed
+description: A brick which creates a new freezed file
+vars:
+  - name

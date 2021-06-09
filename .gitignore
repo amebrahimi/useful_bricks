@@ -1,0 +1,8 @@
+# Everything
+*
+
+#Except
+!.gitignore
+!*.yaml
+!**/bricks
+!bricks/**/*
